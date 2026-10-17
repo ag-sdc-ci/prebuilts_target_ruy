@@ -1,0 +1,23 @@
+{
+	"provideLibs": [	
+		    "libdummy_binary_libruy-static.a-x86_64-v2.so",
+		    "libdummy_binary_libruy-static.a.so",
+		    "libdummy_binary_libruy-x86_64-v2.so.so",
+		    "libdummy_binary_libruy.so.so",
+		    "libdummy_ext_ruy-x86_64-v2.so",
+		    "libdummy_ext_ruy.so",
+		    "libdummy_headers_ext_ruy-x86_64-v2.so",
+		    "libdummy_headers_ext_ruy.so",
+		    "libdummy_shared_ruy-x86_64-v2.so",
+		    "libdummy_shared_ruy.so",
+		    "libruy-x86_64-v2.so",
+		    "libruy.so"
+	],
+	"requireLibs": [	
+		    "libc++_shared.so",
+		    "libc.so",
+		    "libdl.so",
+		    "libm.so"
+	],
+	"visible": true
+}
